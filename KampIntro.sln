@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{A579041B-DEDA-4725-A787-7132F1DD1ECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsExercise", "MethodsExercise\MethodsExercise.csproj", "{6AED6E0B-FCB8-41FF-9457-295A847254C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A579041B-DEDA-4725-A787-7132F1DD1ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A579041B-DEDA-4725-A787-7132F1DD1ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A579041B-DEDA-4725-A787-7132F1DD1ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AED6E0B-FCB8-41FF-9457-295A847254C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AED6E0B-FCB8-41FF-9457-295A847254C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AED6E0B-FCB8-41FF-9457-295A847254C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AED6E0B-FCB8-41FF-9457-295A847254C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
