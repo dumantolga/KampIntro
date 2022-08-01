@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{BED2FA32-F5E5-4473-B55E-66E8B16CB84C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{F7AF8DCF-DB06-4F57-98CF-3C0BD22509CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BED2FA32-F5E5-4473-B55E-66E8B16CB84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED2FA32-F5E5-4473-B55E-66E8B16CB84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED2FA32-F5E5-4473-B55E-66E8B16CB84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AF8DCF-DB06-4F57-98CF-3C0BD22509CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AF8DCF-DB06-4F57-98CF-3C0BD22509CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AF8DCF-DB06-4F57-98CF-3C0BD22509CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AF8DCF-DB06-4F57-98CF-3C0BD22509CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
