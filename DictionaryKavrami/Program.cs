@@ -42,6 +42,20 @@ namespace DictionaryKavrami
             {
                 Console.WriteLine(eklenenler);
             }
+
+            Console.WriteLine();
+
+            Dictionary<int,string> plaka_il = new Dictionary<int,string>();
+            plaka_il.Add(01, "Adana");
+            plaka_il.Add(06, "Ankara");
+            plaka_il.Add(31, "Antakya");
+            plaka_il.Add(34, "İstanbul");
+
+            foreach (var item in plaka_il)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
