@@ -8,7 +8,7 @@ namespace DictionaryKavrami
         {
             /*
             
-            1) Dictionary sınıfı ,  içinde sizin belirleyeceğiniz bir key e uygun olarak değer saklama zorunluluğu var.
+            1) Dictionary sınıfı, içinde belirleyeceğimiz bir key e uygun olarak değer saklar.
             
             2) Key türünü belirtmek şart ( string, int vs...)
             
